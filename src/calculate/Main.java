@@ -2,7 +2,7 @@ package calculate;
 
 import java.util.Scanner;
 
-/**Write a java program using the following descriptions
+/**Write a java program using the following descriptions java program
  1. Create one package with name calculate
  2. Create two class with name “Calculator” and “Main”
  3. Create four methods with manes “addition”, “subtraction”, “division”,
